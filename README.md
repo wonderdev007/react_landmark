@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">A React web application fetching data from a static dataset and generating a collection of landmarks around the globe.</p>
+<h3 align="center">A React web application fetching data from a static dataset and generating a collection of landmarks around the globe.</h3>
 
 <br>
 
