@@ -8,7 +8,7 @@
 
 <br>
 
-### Screenshots
+## Screenshots
 
 <img src="./images/screenshot.png" width="600px" />
 
