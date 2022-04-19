@@ -37,7 +37,6 @@
 .card--pin {
     height: 1rem;
     filter: invert(74%) sepia(93%) saturate(4951%) hue-rotate(326deg) brightness(100%) contrast(94%);
-
 }
 
 .card--maps,
@@ -62,4 +61,21 @@
     text-align: justify;
     letter-spacing: 0.8px; 
     margin: 0;
+}
+
+@media only screen and (max-width: 750px){
+	.card {
+        flex-direction: column;
+        width: 50%;
+    }
+
+    .card--info {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card--info > * {
+        margin-bottom: 0.3rem;
+    }
+
 }
