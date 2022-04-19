@@ -78,4 +78,8 @@
   .card > * {
     margin-bottom: 0.3rem;
   }
+
+  .card--title {
+      text-align: center;
+  }
 }
