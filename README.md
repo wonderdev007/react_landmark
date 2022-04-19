@@ -10,6 +10,8 @@
 
 ## Screenshots
 
+### Desktop
 <img src="./images/screenshot.png" width="600px" />
 
-<img src="./images/screenshot-mobile.png" width="600px" />
+### Mobile
+<img src="./images/screenshot-mobile.png" width="400px" />
