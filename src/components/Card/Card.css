@@ -48,6 +48,7 @@
 .card--date {
   text-align: left;
   margin: 0.4rem 0;
+  font-weight: 600;
 }
 
 .card--title {
