@@ -11,3 +11,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+::selection {
+  background: #cccccc; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #cccccc; /* Gecko Browsers */
+}
