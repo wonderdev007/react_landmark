@@ -1,0 +1,65 @@
+.card {
+    width: 600px;
+    font-size: 12px;
+    display: flex;        
+    flex-direction: row; 
+    margin: 2rem;
+    align-items: center;
+    padding: 0;
+}
+
+.card--image {
+    width: 250px;
+    height: 170px;
+    overflow:none;
+    border-radius: 10px;
+    margin-right: 1rem;
+}
+
+.card--info {
+    display: flex;
+    flex-direction: column;
+}
+
+.card--location--data {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 22px;
+
+}
+
+.card--location--data > * {
+    margin-right: 0.6rem;
+}
+
+.card--pin {
+    height: 1rem;
+    filter: invert(74%) sepia(93%) saturate(4951%) hue-rotate(326deg) brightness(100%) contrast(94%);
+
+}
+
+.card--maps,
+.card--maps:visited {
+    color: gray;
+}
+
+.card--date {
+    text-align: left;
+    margin: 0.4rem 0;
+}
+
+.card--title {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.card--description {
+    text-align: justify;
+    letter-spacing: 0.8px; 
+    margin: 0;
+}
