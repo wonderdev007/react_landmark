@@ -2,9 +2,9 @@
   <img src="./images/logo.png" width="400px" />
 </div>
 
-<br>
-
 <h3 align="center">A React web application showing landmarks around the globe</h3>
+
+<a href="https://react-landmarks.netlify.app/"><h3 align="center">Try me!</h3></a>
 
 
 ## Technologies Used
