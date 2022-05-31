@@ -42,9 +42,15 @@ The application fetches data from a static dataset, and generates a set of card 
 
 ## License
 
-<a href="https://github.com/doslicense/license"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Dos-license-logo-white.svg" height="120px" /></a><br>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
+
 Copyright (c) 2022 Michael Kolesidis<br>
-Licensed under the [DOS License](https://github.com/doslicense/license).
+Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+
+
+<br>
+<br>
 
 
 
