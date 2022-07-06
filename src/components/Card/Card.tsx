@@ -1,7 +1,18 @@
 import React from "react";
 import "./Card.css";
 
-export default function Card(props) {
+interface Props {
+  natural: boolean;
+  dateBuilt: string;
+  imageUrl: string;
+  title: string;
+  location: string;
+  googleMapsUrl: string;
+  description: string;
+  key: number;
+}
+
+const Card: React.FC<Props> = (props) => {
   let dateText;
   if (props.natural === true) {
     dateText = "NATURAL";
@@ -35,4 +46,6 @@ export default function Card(props) {
       </div>
     </div>
   );
-}
+};
+
+export default Card;

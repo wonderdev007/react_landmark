@@ -1,5 +1,5 @@
 /* eslint-disable import/no-anonymous-default-export */
-export default [
+const Data = [
   {
     id: 1,
     title: "Parthenon",
@@ -45,3 +45,5 @@ export default [
     imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
   },
 ];
+
+export default Data;

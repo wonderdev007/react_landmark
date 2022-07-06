@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 
-export default function Navbar() {
+const Navbar: React.FC = () => {
   return (
     <nav>
       <img
@@ -12,4 +12,6 @@ export default function Navbar() {
       <h1>landmarks</h1>
     </nav>
   );
-}
+};
+
+export default Navbar;

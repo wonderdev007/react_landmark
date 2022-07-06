@@ -3,10 +3,10 @@ import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Card from "./components/Card/Card";
 import Footer from "./components/Footer/Footer";
-import data from "./data/data";
+import Data from "./data/data";
 
-export default function App() {
-  const cards = data.map(item => {
+const App: React.FC = () => {
+  const cards = Data.map(item => {
     return (
       <Card 
         key={item.id}
@@ -26,3 +26,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;
