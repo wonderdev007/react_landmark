@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<a href="https://react-landmarks.netlify.app/"><h3 align="center">Try me!</h3></a>
+<h3 align="center"><a href="https://react-landmarks.netlify.app/">Try me!</a></h3>
 
 ## Technologies Used
 
